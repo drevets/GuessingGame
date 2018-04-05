@@ -64,5 +64,9 @@
   }
 
   #menu-btns {
+    border-radius: 5%
+  }
+
+  #menu-btns {
     padding: 20px
   }
